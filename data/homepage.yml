@@ -3,17 +3,17 @@ banner:
   enable : true
   bgImage : "images/backgrounds/banner-bg.png"
   image : "images/illustrations/banner-img.png"
-  title : "**Build your audience** and grow on social media"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy <br> eirmod tempor invidunt ut labore et dolore magna."
+  title : "**Un référencement naturel** -SEO- de qualité pour votre site internet !"
+  content : "Vous lancez votre activité sur internet ? Vous désirez attirer plus de trafic organique sur votre site web ? Vous souhaitez booster vos ventes ?"
   button:
     enable : true
-    label : "download now"
+    label : "Avoir un conseil"
     link : "#"
 
 
 ############################# Clients logo #################################
 clientsLogo:
-  enable : true
+  enable : false
   logos:
     - logo : "images/clients-logo/clients-logo-1.png"
     - logo : "images/clients-logo/clients-logo-2.png"
@@ -33,14 +33,12 @@ service:
 ######################################## About #############################
 about:
   enable : true
-  title : "What We can **do for you**?"
+  title : "Mais vous vous rendez compte que la concurrence est **rude** ! "
   image : "images/illustrations/about-img.png"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna justo takimata sanctus est Lorem ipsum dolor sit rergg rgsea dolor sit amet, consetetur
-          sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna."
+  content : "Et qu’afin d’attirer votre audience cible, il est impératif de se **démarquer**. Il convient de maîtriser les nombreuses techniques y afférent."
   button:
     enable : true
-    label : "know more"
+    label : "En savoir plus"
     link : "about"
 
 
@@ -48,10 +46,10 @@ about:
 cta:
   enable : true
   bgImage : "images/backgrounds/footer-bg.png"
-  title : "Join 75,000+ growing businesses that use Buffer to build their brands"
+  title : "L'importance du SEO pour amélioré son site web"
   button:
     enable : true
-    label : "Join us now"
+    label : "Contactez nous"
 
 
 ################################## About App ##############################
@@ -59,31 +57,30 @@ aboutApp:
   enable : true
   appItem:
     # about app item loop
-    - title : "**Collaborate** on content with your team"
+    - title : "Les avantages de **collaborer** avec nous"
       image : "images/about-app/app-screen-1.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+      content : "Internet est vaste et les internautes sont d’un nombre incalculable. Que vous soyez blogueur ou entrepreneur. Vos visiteurs ne sont pas les mêmes, et la clé pour réussir sur internet est d’atteindre un public susceptible d’être intéressé par vos produits et services. "
       
     # about app item loop
-    - title : "Take your **marketing** to the next level"
+    - title : "En faisant appel à nos **services**"
       image : "images/about-app/app-screen-2.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+      content : "Vous investissez sur votre présence sur le web, en vous dédiant pleinement à votre activité, sans vous soucier des statistiques, techniques et processus de référencement naturel. "
       
     # about app item loop
-    - title : "**Collaborate** on content with your team"
+    - title : "Un réseau de rédacteurs et blogs"
       image : "images/about-app/app-screen-3.png"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
-
+      content : "Pour avoir une présence, il vous faut du contenu. Nos rédacteurs sont là pour écrire et nos blogs partenaires pour publier ces informations sur votre entreprise et service."
 
 #################################### Testimonial ##########################
 testimonial:
   enable : true
-  title : "What **Peoples Says** About Us"
+  title : "Ce que nos **clients** disent sur nous"
   sliderItem:
     # slider item loop
-    - name : "John Doe"
-      designation : "CEO,3D Coders"
+    - name : ""
+      designation : "Petite Asie"
       image : "images/testimonial/user-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore"
+      content : ""
       rating : "four"
       
     # slider item loop

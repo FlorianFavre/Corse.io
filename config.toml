@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://corseio.netlify.app/"
 languageCode = "en-us"
-title = "Gosaas | hugo saas landing template"
+title = "Corse.io | Le spécialiste du référencement naturel en Corse"
 theme = "gosaas-hugo"
 
 ############################# Plugins ##############################
@@ -28,7 +28,7 @@ theme = "gosaas-hugo"
 [menu]
     
   [[menu.main]]
-  name = "About"
+  name = "A propos"
   URL = "about"
   weight = 2
   
@@ -38,12 +38,12 @@ theme = "gosaas-hugo"
   weight = 3
   
   [[menu.main]]
-  name = "Team"
+  name = "Portfolio"
   URL = "team"
   weight = 4
   
   [[menu.main]]
-  name = "Pricing"
+  name = "Tarif"
   URL = "pricing"
   weight = 5
     
@@ -64,12 +64,12 @@ theme = "gosaas-hugo"
   weight = 3
   
   [[menu.footer]]
-  name = "Team"
+  name = "Portfolio"
   URL = "team"
   weight = 4
   
   [[menu.footer]]
-  name = "Pricing"
+  name = "Tarif"
   URL = "pricing"
   weight = 5
     
@@ -82,14 +82,14 @@ theme = "gosaas-hugo"
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Accueil"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Référencement naturel pour une stratégie SEO efficace, analyse du site et partenariat pour augmenter sa visibilité."
+author = "Corse.io"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # copyright
-copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| @2022 [Corse.io] Tout droit réservés  |"
 
   # Preloader
   [params.preloader]
@@ -99,46 +99,46 @@ copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved 
   # Navigation get start button
   [params.navButton]
   enable = true
-  label = "Get A Quote"
+  label = "Avoir un conseil"
   link = "contact"
 
 
 ############################### social links ############################
-[[params.social]]
-name = "Facebook"
-link = "#"
+#[[params.social]]
+#name = "Facebook"
+#link = "#"
 
-[[params.social]]
-name = "Twitter"
-link = "#"
+#[[params.social]]
+#name = "Twitter"
+#link = "#"
 
 [[params.social]]
 name = "Github"
-link = "#"
+link = "https://github.com/Fiurino666"
 
 [[params.social]]
 name = "Linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/florian-favre-737013155/"
 
 
 ########################### footer call to action #####################
 [params.cta]
 enable = true
-title  = "Join 75,000+ growing businesses that <br> use Buffer to build their brands"
+title  = "Rejoignez les sites qui performent et accélèrent leurs croissances, <br> utilisez Corse.io pour aller plus vite"
 #button
-label = "Get start with us"
+label = "Demarrez avec nous"
 link = "#"
 
 
 ############################ footer ##############################
 [params.footer]
 bgImage = "images/backgrounds/footer-bg.png"
-content = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has."
+content = "Nos efforts sont votre augmentation de visibilité et de revenu."
 
 # card we accept
-[[params.footer.card]]
-image = "images/paypal.png"
-[[params.footer.card]]
-image = "images/visa.png"
-[[params.footer.card]]
-image = "images/a-express.png"
+#[[params.footer.card]]
+#image = "images/paypal.png"
+#[[params.footer.card]]
+#image = "images/visa.png"
+#[[params.footer.card]]
+#image = "images/a-express.png"

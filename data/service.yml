@@ -1,26 +1,26 @@
 ################################ Service ##################################
 service:
   enable : true
-  title : "How our Service **Works**?"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  title : "Comment nous fonctionnons?"
+  subtitle : "Afin de bénéficier d’une visibilité accrue sur les moteurs de recherche et idéalement générer du trafic qualitatif sur votre site web, il est indispensable de travailler le référencement naturel de celui-ci"
   serviceItem:
     # service item loop
-    - title : "Promotion Campaign"
+    - title : "Intéresser les algorithmes des moteurs de recherche"
       icon : "ti-announcement" # themify icon pack https://themify.me/themify-icons
       iconColor : "primary" # color available : primary, secondary, tertiary
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
+      content : "Rendre votre site plus attrayant aux yeux des robots, optimisation **on-site**."
       
     # service item loop
-    - title : "Clint Communication"
+    - title : "Améliorer son réseau"
       icon : "ti-comments" # themify icon pack https://themify.me/themify-icons
       iconColor : "secondary" # color available : primary, secondary, tertiary
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
+      content : "Quelqu’un de reconnu sera plus important en terme de visibilité, amélioration **off-site**."
       
     # service item loop
-    - title : "Data Analysis"
+    - title : "Analyse de mot clés"
       icon : "ti-bar-chart" # themify icon pack https://themify.me/themify-icons
       iconColor : "tertiary" # color available : primary, secondary, tertiary
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
+      content : "En adéquation avec votre budget, nous allons définir les possibilités d'**évolution**."
       
     # service item loop
     - title : "Calendaring"
