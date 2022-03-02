@@ -3,8 +3,8 @@
 {{ partial "page-title.html" . }}
 
 <!-- about -->
-{{ if .Site.Data.about.about.enable }}
-{{ with .Site.Data.about.about }}
+{{ if .Site.Data.propos.propos.enable }}
+{{ with .Site.Data.propos.propos }}
 <section class="section pb-0">
   <div class="container">
     {{ range $i,$p := .aboutItem }}
@@ -26,7 +26,7 @@
 <!-- /about -->
 
 <!-- service -->
-{{ if .Site.Data.about.service.enable }}
+{{ if .Site.Data.propos.service.enable }}
 {{ partial "service.html" . }}
 {{ end }}
 <!-- /service -->

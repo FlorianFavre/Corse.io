@@ -23,7 +23,7 @@
         <p>{{ .Site.Params.footer.content | markdownify }}</p>
       </div>
       <div class="col-lg-2 col-md-3 col-6 mb-5 mb-lg-0">
-        <h6 class="mb-4">Quick Links</h6>
+        <h6 class="mb-4">Liens rapides</h6>
         <ul class="list-unstyled footer-menu">
           {{ range .Site.Menus.footer }}
           <li><a href="{{.URL | absURL}}">{{.Name}}</a></li>
@@ -31,7 +31,7 @@
         </ul>
       </div>
       <div class="col-lg-2 col-md-3 col-6 mb-5 mb-lg-0">
-        <h6 class="mb-4">Social Contacts</h6>
+        <h6 class="mb-4">Réseaux sociaux</h6>
         <ul class="list-unstyled footer-menu">
           {{ range .Site.Params.social }}
           <li><a href="{{.link | safeURL}}">{{.name}}</a></li>
@@ -39,9 +39,9 @@
         </ul>
       </div>
       <div class="col-lg-4">
-        <h6 class="mb-4">Lets Subscribe Your Email</h6>
+        <h6 class="mb-4">Je désire plus d'informations</h6>
         <div class="input-group mb-5">
-          <input type="text" class="subscription-form flex-fill" placeholder="Your Email Address">
+          <input type="text" class="subscription-form flex-fill" placeholder="Votre adresse email">
           <div class="input-group-append">
             <button class="input-group-text btn btn-primary rounded-0"><img class="img-fluid" src="{{`images/arrow.svg` | absURL }}" alt=""></button>
           </div>

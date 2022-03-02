@@ -8,7 +8,7 @@ banner:
   button:
     enable : true
     label : "Avoir un conseil"
-    link : "#"
+    link : "contact"
 
 
 ############################# Clients logo #################################
@@ -39,7 +39,7 @@ about:
   button:
     enable : true
     label : "En savoir plus"
-    link : "about"
+    link : "propos"
 
 
 ##################################### call to action #######################
@@ -77,17 +77,17 @@ testimonial:
   title : "Ce que nos **clients** disent sur nous"
   sliderItem:
     # slider item loop
-    - name : ""
-      designation : "Petite Asie"
-      image : "images/testimonial/user-1.jpg"
-      content : ""
-      rating : "four"
+    - name : "Alban Beauchier"
+      designation : "Altufiumorbu.fr"
+      image : "images/testimonial/alban medaillon.jpg"
+      content : "Nous avons pu dévélopper notre boutique totalement avec Corse.io, nous faire connaitre au-delà de nos clients habituels."
+      rating : "five"
       
     # slider item loop
-    - name : "Mark Dinn"
-      designation : "CEO,3D Coders"
-      image : "images/testimonial/user-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore"
+    - name : "Florian Favre"
+      designation : "Macchia.fr"
+      image : "images/testimonial/florian medaillon.jpg"
+      content : "Un changement de nom de domaine ainsi que de CMS (de Prestashop à Woocommerce) a demandé de multiples compétences. Ensuite un gros travail de SEO a été réalisé."
       rating : "five"
 
 

@@ -11,7 +11,7 @@
           <img src="{{`images/backgrounds/pricing-table-bg.png` | absURL }}" class="img-fluid pricing-table-bg" alt="">
           <div class="card-body">
             <h4 class="mb-4">{{ .title | markdownify }}</h4>
-            <p class="text-dark mb-4"><span class="h1">{{ .price }}</span>/month</p>
+            <p class="text-dark mb-4"><span class="h1">{{ .price }}</span>/mois</p>
             <p class="mb-5">{{ .content | markdownify }}</p>
             {{ with .button }}
             <a href="{{ .link | safeURL }}" class="btn btn-outline-tertiary">{{ .label }}</a>

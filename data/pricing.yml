@@ -1,31 +1,31 @@
 ################################## Pricing ################################
 pricing:
   enable : true
-  title : "Choose The **Best Plan** For <br> Your Business"
+  title : "Choisissez le meilleur **Plan** pour votre entreprise"
   pricingTable :
     # pricing table loop
     - name : "Starter Plan"
-      price : "$29"
-      content : "**1 year** of support and updates for **1 website**"
+      price : "19 €"
+      content : "**Analyse** de votre site et conseils pour optimisations des mots clés"
       button:
-        label : "Buy now"
-        link : "#"
+        label : "Je souscris"
+        link : "contact"
         
     # pricing table loop
     - name : "Advance Plan"
-      price : "$49"
-      content : "**1 year** of support and updates for **1 website**"
+      price : "89 €"
+      content : "**Rédaction** d'un article pertinent sur un **blog influent**, nous choisissons ensemble le sujet à traiter"
       button:
-        label : "Buy now"
-        link : "#"
+        label : "Je souscris"
+        link : "contact"
         
     # pricing table loop
     - name : "Pro Plan"
-      price : "$69"
-      content : "**1 year** of support and updates for **1 website**"
+      price : "189 €"
+      content : "**Création** d'un site dédié ainsi que de dizaines d'articles pour augmenter votre réputation / SEO"
       button:
-        label : "Buy now"
-        link : "#"
+        label : "Je souscris"
+        link : "contact"
 
 ################################## About App ##############################
 aboutApp:

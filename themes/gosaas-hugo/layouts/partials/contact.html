@@ -6,11 +6,11 @@
       <div class="col-lg-5 mx-auto text-center">
         <h2 class="title">{{ .title | markdownify }}</h2>
         <form action="{{ .formAction | safeURL }}" method="POST">
-          <input type="text" name="name" id="name" class="form-control mb-4" placeholder="Your full name">
-          <input type="email" name="email" id="email" class="form-control mb-4" placeholder="Your email address">
+          <input type="text" name="name" id="name" class="form-control mb-4" placeholder="Votre nom complet">
+          <input type="email" name="email" id="email" class="form-control mb-4" placeholder="Votre adresse email">
           <textarea name="message" id="message" class="form-control mb-4"
-            placeholder="Type your message here"></textarea>
-          <button type="submit" class="btn btn-primary btn-block">Submit message</button>
+            placeholder="Merci d'écrire votre message ici"></textarea>
+          <button type="submit" class="btn btn-primary btn-block">Valider</button>
         </form>
       </div>
     </div>

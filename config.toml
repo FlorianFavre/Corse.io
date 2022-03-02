@@ -29,7 +29,7 @@ theme = "gosaas-hugo"
     
   [[menu.main]]
   name = "A propos"
-  URL = "about"
+  URL = "propos"
   weight = 2
   
   [[menu.main]]
@@ -39,7 +39,7 @@ theme = "gosaas-hugo"
   
   [[menu.main]]
   name = "Portfolio"
-  URL = "team"
+  URL = "portfolio"
   weight = 4
   
   [[menu.main]]
@@ -54,8 +54,8 @@ theme = "gosaas-hugo"
   
   ###################### footer menu
   [[menu.footer]]
-  name = "About"
-  URL = "about"
+  name = "A propos"
+  URL = "propos"
   weight = 2
   
   [[menu.footer]]
@@ -65,7 +65,7 @@ theme = "gosaas-hugo"
   
   [[menu.footer]]
   name = "Portfolio"
-  URL = "team"
+  URL = "portfolio"
   weight = 4
   
   [[menu.footer]]
@@ -87,7 +87,7 @@ home = "Accueil"
 description = "Référencement naturel pour une stratégie SEO efficace, analyse du site et partenariat pour augmenter sa visibilité."
 author = "Corse.io"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = ""
 # copyright
 copyright = "| @2022 [Corse.io] Tout droit réservés  |"
 
@@ -126,8 +126,8 @@ link = "https://www.linkedin.com/in/florian-favre-737013155/"
 enable = true
 title  = "Rejoignez les sites qui performent et accélèrent leurs croissances, <br> utilisez Corse.io pour aller plus vite"
 #button
-label = "Demarrez avec nous"
-link = "#"
+label = "Démarrez avec nous"
+link = "contact"
 
 
 ############################ footer ##############################

@@ -1,0 +1,19 @@
+################################## About ##############################
+propos:
+  enable : true
+  aboutItem:
+    # about item loop
+    - title : "Que pouvons nous **faire pour vous**?"
+      image : "images/illustrations/about-img.png"
+      content : "Travailler le SEO de votre site, vous sera bénéfique sur le long terme. En faisant appel à nos services, vous investissez sur votre présence sur le web, en vous dédiant pleinement à votre activité, sans vous soucier des statistiques, techniques et processus de référencement naturel. "
+      
+    # about item loop
+    - title : "Quelle est notre **Mission**?"
+      image : "images/illustrations/about-img-2.png"
+      content : "Nous mettons à votre disposition nos compétences requises en référencement SEO ainsi qu’en développement informatique afin de vous aider à développer votre site internet. Quel que soit votre besoin, nous tâcherons de le satisfaire à travers nos différents services."
+
+
+################################ Service ##################################
+service:
+  enable : true
+  # service data comes from 'data/service.yml'

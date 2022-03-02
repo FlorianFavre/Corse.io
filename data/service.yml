@@ -11,10 +11,10 @@ service:
       content : "Rendre votre site plus attrayant aux yeux des robots, optimisation **on-site**."
       
     # service item loop
-    - title : "Améliorer son réseau"
+    - title : "Améliorer son réseau ou Netlinking"
       icon : "ti-comments" # themify icon pack https://themify.me/themify-icons
       iconColor : "secondary" # color available : primary, secondary, tertiary
-      content : "Quelqu’un de reconnu sera plus important en terme de visibilité, amélioration **off-site**."
+      content : "Plus de visibilité, donne un meilleur postitionnement : amélioration **off-site**."
       
     # service item loop
     - title : "Analyse de mot clés"
@@ -23,22 +23,22 @@ service:
       content : "En adéquation avec votre budget, nous allons définir les possibilités d'**évolution**."
       
     # service item loop
-    - title : "Calendaring"
+    - title : "Création de blog dédié"
       icon : "ti-calendar" # themify icon pack https://themify.me/themify-icons
       iconColor : "secondary" # color available : primary, secondary, tertiary
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
+      content : "Nous allons faire un ensemble d'article qui vous concernent et pointent vers **votre site**, pour une meilleure compréhension pour Google."
       
     # service item loop
-    - title : "Scheduling"
+    - title : "Développement de votre activité "
       icon : "ti-write" # themify icon pack https://themify.me/themify-icons
       iconColor : "tertiary" # color available : primary, secondary, tertiary
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
+      content : "Avoir une belle entreprise c'est bien, la **faire connaitre** c'est mieux."
       
     # service item loop
-    - title : "Time Counting"
+    - title : "Durée de visibilité"
       icon : "ti-alarm-clock" # themify icon pack https://themify.me/themify-icons
       iconColor : "primary" # color available : primary, secondary, tertiary
-      content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore."
+      content : "Avec un contenu optimisé pour le référencement naturel c'est la **garantie** que vous maintiendrez un positionnement stratégique pour longtemps."
 
 
 ################################## About App ##############################
