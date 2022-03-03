@@ -1,5 +1,0 @@
-################################ Service ##################################
-merci:
-  enable : true
-  title : "Merci"
-  content : "de nous avoir contacté"

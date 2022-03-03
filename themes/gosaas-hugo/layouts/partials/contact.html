@@ -5,8 +5,8 @@
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
         <h2 class="title">{{ .title | markdownify }}</h2>
-        <form action="{{ .formAction | safeURL }}" method="POST" data-netlify="true">
-          <input type="hidden" name="form-name" value="/merci/" />
+        <form action="{{ .formAction | safeURL }}" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+          <input type="hidden" name="form 1" value="merci" />
           <input type="text" name="name" id="name" class="form-control mb-4" placeholder="Votre nom complet">
           <input type="email" name="email" id="email" class="form-control mb-4" placeholder="Votre adresse email">
           <textarea name="message" id="message" class="form-control mb-4"
