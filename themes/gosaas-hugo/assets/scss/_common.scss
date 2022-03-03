@@ -53,8 +53,12 @@ a:hover {
   outline: 0;
 }
 
-.section {
+.section.pb-0.position-relative{
   padding-top: 120px;
+}
+
+.section {
+  
   padding-bottom: 120px;
   &-sm{
     padding-top: 80px;

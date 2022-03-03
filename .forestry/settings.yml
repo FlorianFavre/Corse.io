@@ -34,6 +34,11 @@ sections:
   label: Contact
   create: all
   match: "**/*"
+  - type: directory
+  path: content/merci
+  label: Merci
+  create: all
+  match: "**/*"
 - type: directory
   path: content/about
   label: About

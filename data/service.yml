@@ -14,7 +14,7 @@ service:
     - title : "Améliorer son réseau ou Netlinking"
       icon : "ti-comments" # themify icon pack https://themify.me/themify-icons
       iconColor : "secondary" # color available : primary, secondary, tertiary
-      content : "Plus de visibilité, donne un meilleur postitionnement : amélioration **off-site**."
+      content : "Plus de visibilité, donne un meilleur positionnement : amélioration **off-site**."
       
     # service item loop
     - title : "Analyse de mot clés"
@@ -45,3 +45,4 @@ service:
 aboutApp:
   enable : true
   # about app data coming from 'data/homepage.yml'
+

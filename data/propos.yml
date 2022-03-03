@@ -3,7 +3,7 @@ propos:
   enable : true
   aboutItem:
     # about item loop
-    - title : "Que pouvons nous **faire pour vous**?"
+    - title : "Que pouvons-nous **faire pour vous**?"
       image : "images/illustrations/about-img.png"
       content : "Travailler le SEO de votre site, vous sera bénéfique sur le long terme. En faisant appel à nos services, vous investissez sur votre présence sur le web, en vous dédiant pleinement à votre activité, sans vous soucier des statistiques, techniques et processus de référencement naturel. "
       

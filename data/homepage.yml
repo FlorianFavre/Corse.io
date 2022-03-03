@@ -46,10 +46,10 @@ about:
 cta:
   enable : true
   bgImage : "images/backgrounds/footer-bg.png"
-  title : "L'importance du SEO pour amélioré son site web"
+  title : "L'importance du SEO pour améliorer son site web"
   button:
     enable : true
-    label : "Contactez nous"
+    label : "Contactez-nous"
 
 
 ################################## About App ##############################
@@ -80,7 +80,7 @@ testimonial:
     - name : "Alban Beauchier"
       designation : "Altufiumorbu.fr"
       image : "images/testimonial/alban medaillon.jpg"
-      content : "Nous avons pu dévélopper notre boutique totalement avec Corse.io, nous faire connaitre au-delà de nos clients habituels."
+      content : "Nous avons pu développer notre boutique totalement avec Corse.io, nous faire connaitre au-delà de nos clients habituels."
       rating : "five"
       
     # slider item loop

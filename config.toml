@@ -28,7 +28,7 @@ theme = "gosaas-hugo"
 [menu]
     
   [[menu.main]]
-  name = "A propos"
+  name = "À propos"
   URL = "propos"
   weight = 2
   
@@ -54,7 +54,7 @@ theme = "gosaas-hugo"
   
   ###################### footer menu
   [[menu.footer]]
-  name = "A propos"
+  name = "À propos"
   URL = "propos"
   weight = 2
   

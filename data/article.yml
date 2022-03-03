@@ -1,0 +1,143 @@
+################################## Article ##############################
+article:
+  enable : true
+  articleItem:
+    # article item loop
+    - title : "L'importance du SEO pour le site web"
+      image : "images/portfolio/image 1.png"
+      content : "Le terme SEO vient de l’anglais : Search Engine Optimization et signifie “optimisation pour les moteurs de recherche”. Grâce à cette technique, les sites web gagnent en visibilité. 
+
+                D’abord, en vue d’atteindre et d’éventuellement captiver de potentiels clients, il est primordial d’intéresser, les algorithmes des moteurs de recherche. 
+
+               \n Les robots des moteurs de recherche qui analysent sans cesse les contenus des sites et les classent suivant leur degré de pertinence, parviennent à positionner votre site en première page de recherche.
+
+                Il va sans dire que pour avoir un bon référencement web, afin de vous positionner parmi les meilleurs résultats de recherche. Il convient de maîtriser les nombreuses techniques y afférent.
+
+                \n Maîtriser le référencement naturel de son site web, soi-même n’est pas impossible en soi ! Si vous avez du temps devant vous disponible. 
+
+                Vous pourrez suivre des formations et apprendre de fond en comble toutes les techniques de référencement naturel afin d’optimiser votre site. 
+
+                \n D’autre part, vous pouvez également brûler les étapes en ayant recours au SEA (search engine advertising) ou le référencement non pas naturel mais payant, soit l’inverse du SEO.
+
+                Le SEA correspond aux pubs sur Google, Bing. Par exemple, lorsqu’un site s’affiche en haut de page de recherche, avec la mention “annonce” à côté. 
+
+                Ce type d’annonces s’agit de payer au clic. Nonobstant, lorsque votre budget sera écoulé, la pub sera inactive. De plus, être en haut de page ne garantît pas le succès de votre site. 
+
+                \n Autrement, vous pourrez payer le coût de l’annonce, pendant des années. Si, votre site n’est pas assez bien optimisé pour le SEO, aucun visiteur ne deviendra client. 
+
+                Car oui, même si vous investissez matériellement dans de la pub, joindre le SEO au SEA est vital pour que vous puissiez percer sur le net. 
+
+                Ainsi, travailler le SEO de votre site, vous sera bénéfique sur le long terme et ce sans débourser aucun centime. Par conséquent, pourquoi perdre de l’argent pour rien puisque le moyen le plus efficace est gratuit !"
+    # about app item loop
+    - title : "Les avantages de **collaborer** avec nous"
+      image : "images/portfolio/image 2.png"
+      content : "Internet est vaste et les internautes sont d’un nombre incalculable. Que vous soyez blogueur ou entrepreneur. Vos visiteurs ne sont pas les mêmes, et la clé pour réussir sur internet est d’atteindre un public susceptible d’être intéressé par vos produits et services. 
+
+               \n  Chaque jour les programmations et algorithmes changent. Et les termes web sont plus techniques les uns que les autres. 
+
+                \n Si vous n’êtes pas très calé dans le domaine digital, que le référencement SEO vous dépasse, et que vous n'avez pas le temps pour tout apprendre afin de mener à bien le fonctionnement de votre site. 
+
+                Faites appel à nos services, en investissant sur votre présence sur le web, en vous dédiant pleinement à votre activité, sans vous soucier des statistiques, techniques et processus de référencement naturel. 
+
+                \n Nous mettons à votre disposition nos compétences requises en référencement SEO ainsi qu’en webmarketing afin de vous aider à développer votre site internet. Quel que soit votre besoin, nous tâcherons de le satisfaire à travers nos différents services, à savoir :
+
+                \n ●	**Définir** les mots clés pertinents pour votre site internet,\n 
+                \n ●	**Créer** un blog ciblé, idéal pour acquérir une notoriété,\n 
+                \n ●	**Analyser** votre site et identifier les erreurs nuisant à son référencement. \n 
+
+                \n N’hésitez pas à lire la suite, pour connaître les bénéfices découlant de chacune de nos prestations."
+    # about app item loop
+    - title : "Pourquoi est-il nécessaire d’inclure des **mots-clés** spécifiques"
+      image : "images/portfolio/image 3.png"
+      content : "Avant toute chose, il faut savoir que ce **mot-clé** peut correspondre à un seul ou plusieurs mots tapés sur la barre de recherche, permettant à l’utilisateur de trouver exactement ce qu’il requiert. À savoir des réponses, des produits ou des services… etc. 
+
+                \n Si votre site web ne s’affiche pas lorsqu’une requête dans votre domaine est tapée sur Google votre site n’est pas bien référencé et cela peut être dû à l’utilisation de mauvais mots-clés ou de mots clés pas assez pertinents.
+
+                \n Notre agence identifie les mots clés adéquats pour votre secteur (niche). Nous vous aidons à trouver et développer vos axes. 
+
+                \n Nous procédons sur l’expérience utilisateur, recueillir les recherches de votre audience cible grâce à des analyses approfondies. En ayant recours aux meilleurs outils, tels que SEMrush et autres outils SEO.
+
+                \n Nous ferons en sorte que lorsqu’un internaute tape sur la barre de recherche un service ou un produit que vous offrez, votre site web apparaisse dans la première page de recherche. 
+
+                \n Inutile de vous rappeler qu’il est rare qu’un internaute clique sur la deuxième, troisième ou quatrième page des moteurs de recherche.
+
+                \n Étant donné que lorsque l’utilisateur tape sa requête, il s’attend, dans l’idéal, à trouver la réponse à sa question dans les trois premiers sites qui s’affichent !"
+     # about app item loop
+    - title : "Quel est l’**utilité** d’avoir un blog sur un site web"
+      image : "images/portfolio/image 4.png"
+      content : "La majorité des entrepreneurs commet une erreur commune et courante : ne pas avoir un blog. 
+
+                Il n’est pas nécessaire d’être blogueur pour détenir un blog. Il est même primordial pour un propriétaire d’une boutique en ligne tout autant qu’un prestataire de services d’en ajouter un sur son site. 
+
+                \n Par ailleurs, tout autant que les mots clés, le blog est un excellent moyen de gagner en visibilité. L’avantage en plus est d’acquérir une notoriété ainsi que la confiance de votre audience ! 
+
+                Supposons qu’un internaute tape des mots clés relatifs à votre secteur, et que votre site s’affiche. Il peut être un client potentiel ou seulement un utilisateur lambda en quête de réponse pour un souci qu'il vient de rencontrer. 
+
+                \n Si votre boutique en ligne n’a pas de section blog. Ce même utilisateur va en ressortir insatisfait. En revanche, dans le cas où vous avez un blog riche en information, et que l'utilisateur trouve la solution à son problème grâce à vous !
+
+                La confiance est d’ores et déjà établie ! Même s’il n'avait pas nécessairement besoin de votre service, en premier lieu. 
+
+                \n Puisque, souvenez-vous, il vous fait maintenant confiance. Il est désormais plus enclin à acheter l’un de vos produits ou à parler de vous dans son entourage dès que l’occasion se présente !
+
+                Maintenant, imaginez que vous publiez de manière régulière sur des sujets diversifiés mais tous tournant autour de votre activité. Ce n’est pas un seul internaute mais de nombreux visiteurs qui vont consulter votre site. 
+
+                \n En résumé, le blog vous sert à augmenter la fréquentation de votre site web, d’intéresser un maximum de lecteurs et de les transformer, éventuellement, en prospects. 
+
+                Par ailleurs, si vous ne détenez pas de blog, notre agence se chargera de vous en créer un de toute pièce. Si, toutefois, vous en avez un, et que vous n’avez ni le temps ni l’inspiration pour rédiger des contenus qualitatifs. 
+
+                \n Dans les deux cas, nous nous chargerons de vous fournir une dizaine d’articles de qualité, attrayants et optimisés pour le mot clé adéquat.  
+
+                En somme, un blog, utilisé intelligemment et alimenté fréquemment, est un outil efficace vous permettant de : \n 
+
+                ●	Percer sur internet, \n \n 
+                ●	Améliorer votre position sur les moteurs de recherche,\n \n 
+                ●	Booster la fréquentation de votre site,\n \n 
+                ●	Vous faire gagner en crédibilité auprès de vos visiteurs,\n \n 
+                ●	Mettre en confiance vos lecteurs, et éventuellement,\n \n 
+                ●	Générer des leads, soit des clients potentiels." 
+    # about app item loop
+    - title : "En quoi consiste l’**analyse** du site web "
+      image : "images/portfolio/image 5.png"
+      content : "Mise à part, une mauvaise utilisation de mots-clés et le fait de ne pas avoir un blog ou en avoir un pas assez alimenté. Il existe d’autres raisons qui ralentissent voire limitent le développement de votre site sur le net. 
+
+                \n Notre audit SEO consiste à identifier et déceler les erreurs en matière de référencement naturel présentes sur votre site. Notamment : \n 
+
+                ●	Des backlinks sans stratégie,\n \n 
+                ●	Des liens cassés dus à une modification ou suppression de pages,\n \n 
+                ●	Des url (trop) longues,\n \n 
+                ●	Du contenu plagié,\n \n 
+                ●	Absence de balisage Html... Entre autres. \n 
+
+                Une fois que nous aurons identifié les malencontreux défauts d'optimisation qui vous empêchent de réussir. Nous améliorerons les fonctions de votre site et apporterons les corrections nécessaires pour un référencement naturel optimal. "
+    # about app item loop
+    - title : "Durée de **visibilité** sur les moteurs de recherche"
+      image : "images/portfolio/image 6.png"
+      content : "Vous vous demandez sûrement : “puisque le référencement SEA n’est pas une solution miracle, bien qu’il garantît une visibilité accrue ainsi que de positionner mon site en haut de page de recherche. Qu’est-ce que le référencement SEO a de mieux à m’offrir ?”
+
+                \n Il est vrai que les annonces sur les moteurs de recherches vous garantissent un meilleur emplacement, mais vous feront perdre énormément d’argent surtout si votre SEO n’est pas bien entretenu. 
+
+                Car, oui même les annonces SEA devront être également optimisées pour le SEO et structurées de la même manière qu’un contenu “gratuit”. 
+
+                \n Tandis que le référencement SEO est un diesel. Il vous faudra patienter des semaines voire des mois pour commencer à être visible sur les moteurs de recherche. 
+
+                Cependant, si le contenu de votre site est optimisé pour le référencement naturel. Nous vous garantissons que vous maintiendrez un positionnement stratégique et ce, pour longtemps. 
+
+                \n À titre d’exemple, vous avez déjà tapé une requête et consulté le premier article qui s’est affiché en page de recherche. Avez-vous remarqué la date de sa publication ? Il existe des articles datés de 2009 qui peuvent s’afficher en première page de recherche, même en 2022. 
+
+                Pour la simple et bonne raison qu’un référencement naturel SEO de très bonne qualité demeurera pertinent pendant une longue durée. 
+
+                \n Conclusion, le SEO correspond bien entendu à un investissement pour le long terme et ce, à titre gracieux ! 
+
+                Par ailleurs, compte tenu du respect de la confidentialité, nous ne sommes pas en mesure de divulguer les infos de nos clients et les résultats que nous sommes à même de réaliser. Néanmoins, voici un exemple de nos compétences en trafic organique avec un site qui, en l'occurrence, nous appartient : en l’espace de 24 mois seulement, macchia.fr est passé de 21 visiteurs (en janvier 2020) à 1497 (en janvier 2022)."
+    # about app item loop
+    - title : "Les **tarifs** de notre agence web"
+      image : "images/portfolio/image 7.jpg"
+      content : "Que vous soyez blogueur, entrepreneur ou prestataire de services, chacun de vous nécessite un besoin distinct. \n 
+                
+                Par ailleurs, afin de répondre au mieux à vos attentes, et étant donné que chaque cas est un cas, le tarif de chaque prestation se fait sur devis. \n 
+
+                Notre agence propose un mode de paiement par mois, sans abonnement, avec un mois de préavis. \n 
+
+                C'est-à-dire, lorsque vous désirerez mettre fin à notre collaboration, vous devrez simplement nous prévenir un mois à l’avance. \n 
+
+                Notre agence web vous permet de consacrer votre temps dans le développement de votre activité et nous tâcherons d’améliorer votre position sur les moteurs de recherche et de vous faire percer sur le web, grâce au référencement naturel SEO."

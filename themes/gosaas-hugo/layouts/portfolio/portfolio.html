@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<!-- about app -->
+{{ if .Site.Data.article.article.enable }}
+{{ partial "article.html" . }}
+{{ end }}
+<!-- /about app -->
+
+
+{{ end }}
