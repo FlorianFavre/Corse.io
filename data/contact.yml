@@ -3,4 +3,4 @@ contact:
   enable : true
   bgImage : "images/backgrounds/contact-bg.png"
   title : "Restez en **Contact**"
-  formAction : "/merci/"
+  formAction : "https://getform.io/f/227786e1-4b9a-4aad-b380-717e74ef67c1"
