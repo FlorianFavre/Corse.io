@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://corseio.netlify.app/"
-languageCode = "en-us"
+baseURL = "https://corse.io"
+languageCode = "fr-fr"
 title = "Corse.io | Le spécialiste du référencement naturel en Corse"
 theme = "gosaas-hugo"
 

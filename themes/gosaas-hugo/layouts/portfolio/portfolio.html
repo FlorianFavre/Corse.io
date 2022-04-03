@@ -4,9 +4,9 @@
 
 <!-- about app -->
 {{ if .Site.Data.article.article.enable }}
-{{ partial "article.html" . }}
+    {{ partial "article.html" . }}
+    {{ partial "image-gallery" (dict "context" . "gallery_dir" "album") }}
 {{ end }}
 <!-- /about app -->
-
 
 {{ end }}

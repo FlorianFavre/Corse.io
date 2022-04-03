@@ -77,17 +77,22 @@ testimonial:
   title : "Ce que nos **clients** disent sur nous"
   sliderItem:
     # slider item loop
-    - name : "Alban Beauchier"
-      designation : "Altufiumorbu.fr"
-      image : "images/testimonial/alban medaillon.jpg"
-      content : "Nous avons pu développer notre boutique totalement avec Corse.io, nous faire connaitre au-delà de nos clients habituels."
+    - name : "Yourtissimo"
+      designation : "Yourtissimo.fr"
+      image : "images/testimonial/yourtissimo.jpg"
+      content : "Nous avons pu développer notre site de réservation avec Corse.io, nous faire connaitre au-delà de nos plateformes habituelles de réservation."
       rating : "five"
       
     # slider item loop
     - name : "Florian Favre"
       designation : "Macchia.fr"
-      image : "images/testimonial/florian medaillon.jpg"
       content : "Un changement de nom de domaine ainsi que de CMS (de Prestashop à Woocommerce) a demandé de multiples compétences. Ensuite un gros travail de SEO a été réalisé."
+      rating : "five"
+
+      # slider item loop
+    - name : "Micro-Brasserie de la Costa Verde"
+      designation : "Corse.beer"
+      content : "Avoir un site e-commerce est essentielle pour nous faire connaitre, qu'il soit actif et bien présent l'est tout autant"
       rating : "five"
 
 

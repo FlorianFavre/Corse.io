@@ -126,18 +126,21 @@ article:
 
                 Pour la simple et bonne raison qu’un référencement naturel SEO de très bonne qualité demeurera pertinent pendant une longue durée. 
 
+
                 \n Conclusion, le SEO correspond bien entendu à un investissement pour le long terme et ce, à titre gracieux ! 
 
                 Par ailleurs, compte tenu du respect de la confidentialité, nous ne sommes pas en mesure de divulguer les infos de nos clients et les résultats que nous sommes à même de réaliser. Néanmoins, voici un exemple de nos compétences en trafic organique avec un site qui, en l'occurrence, nous appartient : en l’espace de 24 mois seulement, macchia.fr est passé de 21 visiteurs (en janvier 2020) à 1497 (en janvier 2022)."
+    
+
     # about app item loop
-    - title : "Les **tarifs** de notre agence web"
-      image : "images/portfolio/image 7.jpg"
-      content : "Que vous soyez blogueur, entrepreneur ou prestataire de services, chacun de vous nécessite un besoin distinct. \n 
+    # - title : "Les **tarifs** de notre agence web"
+    #   image : "images/portfolio/image 7.jpg"
+    #   content : "Que vous soyez blogueur, entrepreneur ou prestataire de services, chacun de vous nécessite un besoin distinct. \n 
                 
-                Par ailleurs, afin de répondre au mieux à vos attentes, et étant donné que chaque cas est un cas, le tarif de chaque prestation se fait sur devis. \n 
+    #             Par ailleurs, afin de répondre au mieux à vos attentes, et étant donné que chaque cas est un cas, le tarif de chaque prestation se fait sur devis. \n 
 
-                Notre agence propose un mode de paiement par mois, sans abonnement, avec un mois de préavis. \n 
+    #             Notre agence propose un mode de paiement par mois, sans abonnement, avec un mois de préavis. \n 
 
-                C'est-à-dire, lorsque vous désirerez mettre fin à notre collaboration, vous devrez simplement nous prévenir un mois à l’avance. \n 
+    #             C'est-à-dire, lorsque vous désirerez mettre fin à notre collaboration, vous devrez simplement nous prévenir un mois à l’avance. \n 
 
-                Notre agence web vous permet de consacrer votre temps dans le développement de votre activité et nous tâcherons d’améliorer votre position sur les moteurs de recherche et de vous faire percer sur le web, grâce au référencement naturel SEO."
+    #             Notre agence web vous permet de consacrer votre temps dans le développement de votre activité et nous tâcherons d’améliorer votre position sur les moteurs de recherche et de vous faire percer sur le web, grâce au référencement naturel SEO."
